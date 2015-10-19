@@ -1,0 +1,27 @@
+{
+  "name": "angular-json-schema-doc",
+  "authors": [
+    "Kyle Derkacz <kderkacz@saymedia.com>"
+  ],
+  "description": "An angular module for rendering json schema as flat html",
+  "main": "index.js",
+  "moduleType": [],
+  "keywords": [
+    "json",
+    "schema",
+    "documentation",
+    "angular"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7"
+  }
+}
